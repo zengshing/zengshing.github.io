@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "[系规学习笔记] 第1章"
-subtitle:   "信息系统综合知识"
+title:      "第1章 信息系统综合知识"
+subtitle:   "[系规学习笔记] 重点记录以及思考"
 date:       2020-06-22 18:00:00
 author:     "StevenZ"
 header-img: "img/post-bg-2015.jpg"
