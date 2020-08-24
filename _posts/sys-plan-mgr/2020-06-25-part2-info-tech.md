@@ -1,4 +1,4 @@
-```
+---
 layout:     post
 title:      "第2章 信息技术知识"
 subtitle:   "[系规学习笔记] 重点记录以及思考"
@@ -8,7 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 系统规划与管理师
-```
+---
 
 
 
