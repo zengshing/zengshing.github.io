@@ -198,7 +198,7 @@ tags:
 
 2.   生命线：生命线名称可带下划线。当使用下划线时，意味着序列图中的生命线代表一个类的特定实例。
 
-     ![](../../img\in-post\home-bg-art.jpg)
+     ![](../../img/in-post/home-bg-art.jpg)
 
 3.  同步信息
 
