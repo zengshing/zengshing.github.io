@@ -1,4 +1,3 @@
----
 layout:     post
 title:      "第2章 信息技术知识"
 subtitle:   "[系规学习笔记] 重点记录以及思考"
@@ -7,8 +6,8 @@ author:     "StevenZ"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
+
     - 系统规划与管理师
----
 
 
 
@@ -178,7 +177,7 @@ tags:
     1.  构件图之间的关系表现为依赖关系；
     2.  定义的类或接口与类之间的关系表现为依赖关系或实现关系。
 
-    ![](../../img/in-post/1039166-20170322172749565-807855921.jpg)
+    ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170322172749565-807855921.jpg)
 
 5.  部署图：描述了系统运行时进行处理的结点以及在结点上活动的构件的配置。强调了物理设备之间的连接关系。
 
@@ -188,7 +187,7 @@ tags:
 
 状态图：用来描述类的对象**所有可能的状态**以及时间发生时状态的转移条件。
 
-![](../../img/in-post/1039166-20170322150222080-857452152.gif)
+![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170322150222080-857452152.gif)
 
 序列图 - 时序图：交互图的一种，描述了对象之间消息发送的先后顺序，强调时间顺序。
 
@@ -198,25 +197,25 @@ tags:
 
 2.   生命线：生命线名称可带下划线。当使用下划线时，意味着序列图中的生命线代表一个类的特定实例。
 
-     ![](../../img/in-post/home-bg-art.jpg)
+     ![](https://raw.githubusercontent.com/zengshing/note_images/master/img/home-bg-art.jpg)
 
 3.  同步信息
 
-    ![](../../img/in-post/1039166-20170323103344815-667545820.png)
+    ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170323103344815-667545820.png)
 
 4.  异步消息
 
-    ![](../../img/in-post/1039166-20170323103907408-1194389045.png)
+    ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170323103907408-1194389045.png)
 
 5.  注释
 
-    ![](../../img/in-post/1039166-20170323103940596-1452375633.png)
+    ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170323103940596-1452375633.png)
 
 6.  约束
 
     ​	提款需要输入密码
 
-    ![](../../img/in-post/1039166-20170323104208361-1274035050.png)
+    ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170323104208361-1274035050.png)
 
 
 
@@ -228,7 +227,7 @@ tags:
 
 活动图：是状态图的一种特殊情况，这些状态大都处于活动状态。本质是一种流程图，它描述了活动到活动的控制流。
 
-![](../../img/in-post/1039166-20170322151313549-1985497360.jpg)
+![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170322151313549-1985497360.jpg)
 
 1.  交互图
 
@@ -236,7 +235,7 @@ tags:
 
     1.  带泳管的活动图： 泳道表明每个活动是由哪些人或哪些部门负责完成
 
-    2.  ![](../../img/in-post/1039166-20170322152410361-482057773.jpg)
+        ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/1039166-20170322152410361-482057773.jpg)
 
     3.  带对象流的活动图
 
@@ -306,7 +305,7 @@ tags:
 
  [什么是数据仓库](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/381916?fr=aladdin)
 
-![](../../img/in-post/06bfbd4734c6cad214c05470e27a54bb)
+![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/06bfbd4734c6cad214c05470e27a54bb)
 
 >   数据仓库是多个数据源集合的历史数据， 用于业务分析，生产报表， 如ERP系统
 
@@ -599,7 +598,7 @@ IoT: Internet of Things
 
 
 
-![](../../img/in-post/ce847e4a690e3c1c59f5e7c316cdd864)
+![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/ce847e4a690e3c1c59f5e7c316cdd864)
 
 -   感知层： 负责信息采集和物物之间的信息传输（关键技术： 采集并上传） 
 
