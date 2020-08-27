@@ -12,7 +12,7 @@ tags:
     - devops
 ---
 
-[DevOps vs. ITIL -- Which matters for your team? ](https://www.atlassian.com/itsm/itil/devops-vs-itil)
+
 
 >   前言： 在IT工业中，有很多关于DevOps与ITIL的选择。而这些选项往往倾向将这两种IT管理方法对立起来。在许多人心中，你如果不是ITIL阵营，那么就是DevOps阵营。这是非黑即白的，所以你只能选其一。
 
@@ -27,8 +27,6 @@ DevOps与ITIL没有完全排斥，实则是可以相互补充的，发挥自身�
 ![](https://raw.githubusercontent.com/zengshing/zengshing.github.io/master/img/in-post/Nub8-What-is-Devops.png)
 
 DevOps是开发与运维之间连接的桥梁，弥补两个团队之间的技术误区和流程缺陷。其核心原则就是开放式沟通，协助以及共享目标。
-
-[DevOps的事件管理](https://www.atlassian.com/zh/incident-management/devops)
 
 *与ITIL等框架不同，DevOps团队没有“官方”的最佳实践。但一般我们共识：DevOps的核心是通过打破组织孤岛，提高透明度并促进开发人员与IT运营团队之间的开放式沟通，为组织带来业务价值。*
 
@@ -100,8 +98,6 @@ DevOps带来的最有价值的东西之一是一种无责的文化。 这并不�
 
 SLA（服务水平协议）是ITIL的最佳实践。 因为它们概述了您在产品或客户中所兑现或还未兑现的承诺，所以它们可以帮助减少理解盲区和客户投诉。
 
-[注： 什么是SLA](https://www.atlassian.com/zh/itsm/service-request-management/slas)
-
 ## 6.使用DevOps和ITIL优化流程
 
 ITIL是IT流程的圣经。 它已经存在了很长时间，并且已经发展为适应行业不断变化的需求。
@@ -110,3 +106,10 @@ ITIL是IT流程的圣经。 它已经存在了很长时间，并且已经发展�
 
 DevOps可以通过无可指摘的事后分析、自动化、更具协作性的方法等来改进ITIL的流程，使其变得更好。
 
+
+
+[1] [DevOps vs. ITIL -- Which matters for your team? ](https://www.atlassian.com/itsm/itil/devops-vs-itil)
+
+[2] [什么是SLA](https://www.atlassian.com/zh/itsm/service-request-management/slas)
+
+[3] [DevOps的事件管理](https://www.atlassian.com/zh/incident-management/devops)
