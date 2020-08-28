@@ -46,7 +46,7 @@ tags:
 
     >   为什么需要dentry？
     >
-    >     dentry（directory entry）是一个存放在内存里的缩略版的磁盘文件系统目录树结构，假设不存在dentry这个数据结构，那么就不得不每次都需要去查inode和文件名的关系。
+    >    dentry（directory entry）是一个存放在内存里的缩略版的磁盘文件系统目录树结构，假设不存在dentry这个数据结构，那么就不得不每次都需要去查inode和文件名的关系。
     >
     >   比如查/etc/hosts文件：
     >
